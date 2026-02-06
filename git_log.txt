@@ -1,0 +1,45 @@
+commit a51d42957dabe8beb7c49a57c7cd9f4a7a5f5b04
+Merge: 5b45b82 50bb816
+Author: myk0120 <mlopezg7@calstatela.edu>
+Date:   Thu Feb 5 21:58:55 2026 -0800
+
+    Resolve merge conflict
+
+commit 50bb81620875cd0f87915fc14bc0e3cfd376aca1
+Author: myk0120 <mlopezg7@calstatela.edu>
+Date:   Thu Feb 5 21:55:46 2026 -0800
+
+    Add favorite movie or game
+
+commit 5b45b8201f6b62cc9c4fe31e2ed344db3429df3a
+Author: myk0120 <mlopezg7@calstatela.edu>
+Date:   Thu Feb 5 21:54:31 2026 -0800
+
+    Add favorite food
+
+commit 307e3245b6bfb832c526fd595822466575ce1df0
+Author: myk0120 <mlopezg7@calstatela.edu>
+Date:   Thu Feb 5 21:50:13 2026 -0800
+
+    Add README
+
+commit 4cbe592eb34abda0e5b6a4a4aa6f98b62859f3f6
+Merge: 1d2bfc0 7a3b974
+Author: myk0120 <mlopezg7@calstatela.edu>
+Date:   Thu Feb 5 21:46:21 2026 -0800
+
+    Merge pull request #1 from myk0120/info-fill
+    
+    Fill info blanks
+
+commit 7a3b97404a6931513e4393e967aa682106c4d5f9
+Author: myk0120 <mlopezg7@calstatela.edu>
+Date:   Thu Feb 5 21:39:40 2026 -0800
+
+    Fill info blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
